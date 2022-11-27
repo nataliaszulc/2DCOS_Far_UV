@@ -3,9 +3,6 @@ import pandas
 import matplotlib.pyplot as plt
 import matplotlib.lines as lines
 from matplotlib.gridspec import GridSpec
-from matplotlib.offsetbox import AnchoredText
-#left_large, dynamic, num_contour = True, True, 16
-#plot_temp = '4'
 
 def combine_plots(spec_syn, spec_asyn, base_file):
     base = pandas.read_excel(base_file, header=0, index_col=0,usecols=[0,1])
