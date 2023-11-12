@@ -87,7 +87,7 @@ Distributed under the GNU License.
 <!-- CONTACT -->
 ## Contact
 
-Natalia Szulc - natalia.szulc@pwr.edu.pl
+Natalia Szulc - natalia.szulc@upwr.edu.pl
 
 Project Link: [https://github.com/nataliaszulc/2DCOS_Far_UV](https://github.com/nataliaszulc/2DCOS_Far_UV)
 
